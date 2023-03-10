@@ -1,0 +1,10 @@
+/* Universal Styles */
+
+* {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  background-color: pink;
+}
